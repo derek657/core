@@ -19,6 +19,7 @@ FLOWS = [
     "axis",
     "blebox",
     "blink",
+    "bmw_connected_drive",
     "braviatv",
     "brother",
     "bsblan",
